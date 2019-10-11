@@ -1,4 +1,4 @@
-package cn.kt;
+package cn.kt.part1;
 
 import com.google.gson.GsonBuilder;
 
